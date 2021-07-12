@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohianprotik
+- 👋 Hi, I’m Mohian Islam
 - 👀 I’m interested in Solving real life problems
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on any machine learning project
